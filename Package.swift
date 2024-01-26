@@ -14,6 +14,9 @@ let package = Package(
     targets: [
         .target(
             name: "TwitterImagePipeline",
+            resources: [
+                .copy("PrivacyInfo.xcprivacy")
+            ],
             cSettings: [
                 .define("TIP_PROJECT_VERSION", to: "2.25")
             ],
