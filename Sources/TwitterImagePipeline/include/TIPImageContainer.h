@@ -7,7 +7,7 @@
 //
 
 #import <ImageIO/CGImageSource.h>
-#import <TIPImageUtils.h>
+#import "TIPImageUtils.h"
 #import <UIKit/UIImage.h>
 #import <UIKit/UIView.h>
 

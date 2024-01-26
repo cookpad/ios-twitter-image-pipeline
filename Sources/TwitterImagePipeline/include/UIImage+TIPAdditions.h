@@ -7,8 +7,8 @@
 //
 
 #import <ImageIO/ImageIO.h>
-#import <TIPImageTypes.h>
-#import <TIPImageUtils.h>
+#import "TIPImageTypes.h"
+#import "TIPImageUtils.h"
 #import <UIKit/UIImage.h>
 
 NS_ASSUME_NONNULL_BEGIN
