@@ -2,13 +2,17 @@
 
 ## Info
 
-**Document version:** 2.25.01
+**Document version:** 2.25.02
 
-**Last updated:** 07/25/2023
+**Last updated:** 01/24/2024
 
 **Author:** Nolan O'Brien
 
 ## History
+
+### 2.25.2 - Haruta Yamada
+
+- Add PrivacyInfo.xcprivacy
 
 ### 2.25.1 - Liam Nichols
 
