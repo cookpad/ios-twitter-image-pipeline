@@ -12,4 +12,5 @@ Pod::Spec.new do |s|
   s.swift_versions   = [ 5.0 ]
   s.source_files = 'Sources/TwitterImagePipeline/**/*.{h,m}', 'Sources/TIPUtils/**/*.{h,m}'
   s.public_header_files = 'Sources/TwitterImagePipeline/include/*.h'
+  s.resource_bundles = {'TwitterImagePipeline' => ['Sources/TwitterImagePipeline/PrivacyInfo.xcprivacy']}
 end
