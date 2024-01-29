@@ -6,7 +6,7 @@
 //  Copyright (c) 2015 Twitter. All rights reserved.
 //
 
-#import <TIPImageFetchable.h>
+#import "TIPImageFetchable.h"
 #import <UIKit/UIImageView.h>
 
 @class TIPImageViewFetchHelper;

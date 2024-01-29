@@ -6,8 +6,8 @@
 //  Copyright © 2020 Twitter. All rights reserved.
 //
 
-#import <TIPDefinitions.h>
-#import <TIPProgressive.h>
+#import "TIPDefinitions.h"
+#import "TIPProgressive.h"
 
 @protocol TIPImageFetchOperationUnderlyingContext;
 @protocol TIPImageFetchTransformer;

@@ -8,8 +8,8 @@
 
 #import <Foundation/Foundation.h>
 
-#import <TIPDefinitions.h>
-#import <TIPImageFetchOperation.h>
+#import "TIPDefinitions.h"
+#import "TIPImageFetchOperation.h"
 
 @class TIPImageFetchMetricInfo;
 

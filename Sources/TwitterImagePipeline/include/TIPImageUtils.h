@@ -8,7 +8,7 @@
 
 #import <ImageIO/CGImageProperties.h>
 #import <ImageIO/CGImageSource.h>
-#import <TIPImageTypes.h>
+#import "TIPImageTypes.h"
 #import <UIKit/UIImage.h>
 #import <UIKit/UIScreen.h>
 #import <UIKit/UIView.h>

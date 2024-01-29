@@ -6,8 +6,8 @@
 //  Copyright © 2020 Twitter. All rights reserved.
 //
 
-#import <TIPImageFetchDelegate.h>
-#import <TIPImageUtils.h>
+#import "TIPImageFetchDelegate.h"
+#import "TIPImageUtils.h"
 #import <UIKit/UIView.h>
 
 @class TIPImageFetchMetrics;
