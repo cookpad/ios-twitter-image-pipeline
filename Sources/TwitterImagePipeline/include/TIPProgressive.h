@@ -8,7 +8,7 @@
 
 #import <Foundation/Foundation.h>
 
-#import <TIPImageUtils.h>
+#import "TIPImageUtils.h"
 
 @class TIPImageFetchOperation;
 

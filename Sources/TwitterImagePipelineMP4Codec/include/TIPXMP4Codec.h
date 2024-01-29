@@ -6,7 +6,7 @@
 //  Copyright © 2020 Twitter. All rights reserved.
 //
 
-#import <TIPImageCodecs.h>
+#import "TIPImageCodecs.h"
 
 @protocol TIPXMP4DecoderConfig;
 

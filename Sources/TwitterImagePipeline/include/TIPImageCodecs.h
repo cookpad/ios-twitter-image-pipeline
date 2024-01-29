@@ -8,7 +8,7 @@
 
 #import <CoreGraphics/CGGeometry.h>
 #import <Foundation/Foundation.h>
-#import <TIPImageTypes.h>
+#import "TIPImageTypes.h"
 #import <UIKit/UIView.h> // UIViewContentMode
 
 @protocol TIPImageEncoder;
